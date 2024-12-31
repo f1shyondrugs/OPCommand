@@ -1,0 +1,8 @@
+name: werbeding
+version: '1.0-SNAPSHOT'
+main: com.f1shy312.werbeding.Werbeding
+api-version: '1.21'
+commands:
+  op:
+    description: Erhalte einmalig 10000 Dollar
+    usage: /op
